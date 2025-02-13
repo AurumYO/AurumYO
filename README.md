@@ -17,5 +17,3 @@ Here are some ideas to get you started:
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=AurumYO)](https://github.com/AurumYO/github-profile-trophy)
 
-
-[![AurumYO's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=AurumYO&theme=dracula)](https://github.com/AurumYO/github-readme-activity-graph)
