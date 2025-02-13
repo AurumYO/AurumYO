@@ -1,4 +1,5 @@
 ## Hi there 👋
+## My name is Yuri and I am very passionate Full Stack Django Developer | Python Developer
 
 <!--
 **AurumYO/AurumYO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -11,6 +12,10 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=AurumYO)](https://github.com/AurumYO/github-profile-trophy)
+
+
+[![AurumYO's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AurumYO&theme=dracula)](https://github.com/AurumYO/github-readme-activity-graph)
