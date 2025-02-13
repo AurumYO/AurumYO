@@ -1,5 +1,4 @@
-## Hi there 👋
-## My name is Yuri and I am very passionate Full Stack Django Developer | Python Developer
+## Hi there 👋. My name is Yuri and I am very passionate Full Stack Django Developer | Python Developer
 
 <!--
 **AurumYO/AurumYO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
